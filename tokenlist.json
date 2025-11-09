@@ -5,5 +5,8 @@
   "decimals": 6,
   "logoURI": "https://raw.githubusercontent.com/karl13131996-png/mytokeneurc-assets/main/logo.png",
   "homepage": "",
-  "markets": []
+  "markets": [
+    "https://sun.io/#/scan/pairDetail?pairAddress=TJVAZcgF4rHFkMScCiponhkeNMJRgKyp1Y&version=v3&timestamp=1762701613038"
+  ]
 }
+
